@@ -4,7 +4,7 @@
   "description": "Este es el server del curso JS de OpenBootcamp",
   "main": "index.js",
   "scripts": {
-    "start": "Hola, este es mi primer ejercicio con Node en el mejor bootcamp de programacion del mundo.",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

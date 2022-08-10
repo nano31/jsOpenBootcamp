@@ -7,14 +7,6 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nano31/jsOpenBootcamp.git"
-  },
   "author": "Franco Garcia",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nano31/jsOpenBootcamp/issues"
-  },
-  "homepage": "https://github.com/nano31/jsOpenBootcamp#readme"
+  "license": "ISC"
 }
